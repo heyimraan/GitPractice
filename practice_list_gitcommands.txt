@@ -16,3 +16,5 @@ git checkout
 push or transfer existing repository to gitnub website
 ========================================
 git remote add origin <url of repository>
+
+git push -u origin master
