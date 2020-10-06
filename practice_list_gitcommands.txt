@@ -11,3 +11,7 @@ git log
 git diff <file -name>
 
 git checkout
+
+=========================================
+push or transfer existing repository to gitnub website
+========================================
